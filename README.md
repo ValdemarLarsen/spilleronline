@@ -1,5 +1,4 @@
-# vrp_players_display
+# SpillerOnline 
 
-Can be used on every framework, srry for titling it vRP!
-
+Det giver lidt sig selv hvad det gør.
 Script er lavet af Valdemar Larsen
